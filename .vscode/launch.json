@@ -20,6 +20,13 @@
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
-        }
+        },
+        {
+            "name": "flutter_moda_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug"
+        },
+        
     ]
 }
